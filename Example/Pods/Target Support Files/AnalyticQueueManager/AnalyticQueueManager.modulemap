@@ -1,0 +1,6 @@
+framework module AnalyticQueueManager {
+  umbrella header "AnalyticQueueManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'AnalyticQueueManager_Example' do
+  pod 'AnalyticQueueManager', :path => '../'
+
+  target 'AnalyticQueueManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

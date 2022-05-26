@@ -1,0 +1,16 @@
+PODS:
+  - AnalyticQueueManager (0.1.0)
+
+DEPENDENCIES:
+  - AnalyticQueueManager (from `../`)
+
+EXTERNAL SOURCES:
+  AnalyticQueueManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AnalyticQueueManager: 9951d2d8dc6bcf07973eaf94e4cc8e0a0a9134c2
+
+PODFILE CHECKSUM: 35555183f407603a15b44661c1aecb3c950689f2
+
+COCOAPODS: 1.11.3
